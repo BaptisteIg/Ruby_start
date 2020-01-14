@@ -1,0 +1,1 @@
+# puts "Salut, ça farte ? Une erreur est affiché car il manque une quote "
